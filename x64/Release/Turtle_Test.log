@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\frost\local\repos\C-Turtle-master\C-Turtle-master\CTurtle.hpp(2356,64): warning C4244: 'argument': conversion from 'cturtle::detail::time_t' to 'unsigned int', possible loss of data
+C:\Users\frost\local\repos\C-Turtle-master\C-Turtle-master\CTurtle.hpp(3300,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\frost\local\repos\C-Turtle-master\C-Turtle-master\CTurtle.hpp(3300,1): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\frost\local\repos\C-Turtle-master\C-Turtle-master\CTurtle.hpp(3344,98): warning C4244: '*=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=unsigned char
+          ]
+C:\Users\frost\local\repos\C-Turtle-master\C-Turtle-master\CTurtle.hpp(4489,1): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\frost\local\repos\C-Turtle-master\C-Turtle-master\CTurtle.hpp(4489,1): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned long', possible loss of data
+C:\Users\frost\local\repos\C-Turtle-master\C-Turtle-master\CTurtle.hpp(4881,66): warning C4244: 'initializing': conversion from 'cturtle::detail::time_t' to 'unsigned long', possible loss of data
+C:\Users\frost\local\repos\C-Turtle-master\C-Turtle-master\CTurtle.hpp(4881,47): warning C4244: 'initializing': conversion from 'cturtle::detail::time_t' to 'const unsigned long', possible loss of data
+C:\Users\frost\local\repos\C-Turtle-master\C-Turtle-master\CTurtle.hpp(4885,68): warning C4244: 'initializing': conversion from 'cturtle::detail::time_t' to 'unsigned long', possible loss of data
+C:\Users\frost\local\repos\C-Turtle-master\C-Turtle-master\CTurtle.hpp(4885,49): warning C4244: 'initializing': conversion from 'cturtle::detail::time_t' to 'const unsigned long', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2318 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Turtle_Test.vcxproj -> C:\Users\frost\local\repos\Turtle_Test\x64\Release\Turtle_Test.exe
