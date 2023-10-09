@@ -1,13 +1,14 @@
 <h1>Turtle-Graphics-C</h1>
 
- ### [YouTube Demonstration](https://youtu.be/MTIUfkkbxSE)
+
 
 <h2>Description</h2>
 In this project, you will learn how to implement turtle graphics in the C++ programming language using Windows 10. Using SDL2 (Simple DirectMedia Layer), you can effectively display any graphical code on any computer (via Windows, Max, or Linux), which is necessary for displaying turtle graphic images.
 Besides downloading SDL2, additional files are necessary to run turtle graphics on C++. Since the programming language itself does not have an independent module designed for turtle graphics like Python does. For this reason, I will show you the proper steps for executing C++ turtle graphics on Windows 10.
 <br />
 
-
+ ### [YouTube Example](https://youtu.be/MTIUfkkbxSE)
+ 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
